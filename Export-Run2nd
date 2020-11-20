@@ -1,0 +1,3 @@
+--replace anything in ' '
+
+EXEC proc_generate_excel_with_columns 'your dbname', 'your table name','your file path'
